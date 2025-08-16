@@ -49,6 +49,7 @@ cd house-price-mlflow
 python -m venv venv
 ```
 Activate it:
+
 Windows:
 ```bash
 venv\Scripts\activate
