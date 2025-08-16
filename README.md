@@ -70,7 +70,7 @@ mlflow ui
 
 This will start MLflow on `http://127.0.0.1:5000`.
 
-5. Run the Jupyter Notebook
+### 5. Run the Jupyter Notebook
 
 Execute all cells in housepricepredict.ipynb to train models, perform hyperparameter tuning, and log results in MLflow.
 
