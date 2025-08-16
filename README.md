@@ -97,15 +97,6 @@ Execute all cells in housepricepredict.ipynb to train models, perform hyperparam
 
 ---
 
-## 📝 Author
-
-**👤 Your Name**
-
-* **GitHub:** yourusername
-* **LinkedIn:** Your LinkedIn
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
